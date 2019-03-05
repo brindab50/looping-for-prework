@@ -4,5 +4,5 @@ def using_for
 for item in check_list
 puts "Wingdrium Leviosa"
 end
-
+end
 
